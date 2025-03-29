@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/Unity Projects/amimal/.utmp/RelWithDebInfo/1kv4x1g4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/Unity Projects/amimal/.utmp/RelWithDebInfo/1kv4x1g4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/Unity Projects/amimal/.utmp/RelWithDebInfo/1kv4x1g4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/user/Desktop/Unity Projects/amimal/.utmp/RelWithDebInfo/1kv4x1g4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/Unity Projects/amimal/.utmp/RelWithDebInfo/1kv4x1g4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
